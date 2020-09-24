@@ -87,7 +87,7 @@ class _CategoryPageState extends State<CategoryPage> {
         ),
         Container(
           padding: EdgeInsets.all(12.0),
-          width: 200.0,
+          width: 201.0,
           child: RaisedButton(
             child: Text("Add New"),
             onPressed: () {
